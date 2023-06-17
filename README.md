@@ -1,0 +1,2 @@
+# vueLibraryFoo
+simpletest vue incomplete
